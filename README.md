@@ -12,7 +12,7 @@ The workflow is designed to work with a frontend application that communicates w
 
 ### Links
 
-- **Live Demo:** [Try the AI Chat Application](askanydoc.lovable.app)
+- **Live Demo:** [Try the AI Chat Application](https://askanydoc.lovable.app)
 - **Workflow:** [RAG Workflow JSON](workflow/RAG_workflow.json)
 
 ## Preview
