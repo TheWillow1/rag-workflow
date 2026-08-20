@@ -10,6 +10,15 @@ The system separates the process into two main workflows:
 The workflow is designed to work with a frontend application that communicates with n8n through webhooks.
 
 
+### Links
+
+- **Live Demo:** [Try the AI Chat Application](askanydoc.lovable.app)
+- **Workflow:** [RAG Workflow JSON](workflow/RAG_workflow.json)
+
+## Preview
+
+![RAG Workflow](docs/rag_workflow.png)
+
 # Architecture
 
 ```text
